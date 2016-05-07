@@ -1,0 +1,7 @@
+﻿Name: The Theme Machine Responsive
+Author: jowall, mibach, loudej, heskew, rbenton
+Description: A variation of "The Theme Machine", a flexible multi-zone theme that provides a solid foundation to build your site. This is the same theme, but with additional CSS and Javascript to facilitate a "responsive" website. This means the layout will adjust to different screen resolutions and devices.
+Version: 1.9.1
+Tags: Responsive, Mobile, Tablet
+Website: http://responsivetheme.codeplex.com/
+Zones: Header, Navigation, Featured, BeforeMain, AsideFirst, Messages, BeforeContent, Content, AfterContent, AsideSecond, AfterMain, TripelFirst, TripelSecond, TripelThird, FooterQuadFirst, FooterQuadSecond, FooterQuadThird, FooterQuadFourth, Footer
